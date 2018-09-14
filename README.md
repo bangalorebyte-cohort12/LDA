@@ -1,0 +1,2 @@
+# LDA
+Gaussian NB extension
